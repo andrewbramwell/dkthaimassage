@@ -4,9 +4,9 @@
 /* CodeStitch Root and Helpers */
 @media only screen and (min-width: 0em) {
   :root {
-    --primary: #F12626;
-    --primaryLight: #C4AB69;
-    --secondary: #C4AB69;
+    --primary: #E5317A;
+    --primaryLight: #E21A6B;
+    --secondary: #E21A6B;
     --secondaryLight: #001f3f;
     --headerColor: #1a1a1a;
     --bodyTextColor: #4e4b66;

@@ -1,19 +1,18 @@
 {
-    "name": "Rak Thai Massage",
-    "email": "hello@rakthaimassage.co.uk",
-    "phoneForTel": "+447542669798",
-    "phoneFormatted": "07542 669798",
-    "onlineBooking": "https://rakthaimassage.setmore.com/beta",
-    "giftVoucher": "https://rakthai.enjovia.com/",
+    "name": "DK Thai Massage",
+    "email": "hello@dkthaimassage.co.uk",
+    "phoneForTel": "+447736269235",
+    "phoneFormatted": "07736 269235",
+    "onlineBooking": "https://dkthaimassage.setmore.com/beta",
+    "giftVoucher": "https://dkthaimassage.enjovia.com/",
     "address": {
-        "lineOne": "65 Union Street",
-        "lineTwo": "",
-        "city": "Maidstone",
-        "state": "Kent",
-        "zip": "ME14 1ED",
-        "mapLink": "https://maps.app.goo.gl/NvVzsCkUcA1JeJgV9"
+        "lineOne": "340 Kilburn High Road",
+        "lineTwo": "Kilburn",
+        "city": "London",
+        "zip": "NW6 2QJ",
+        "mapLink": "https://maps.app.goo.gl/3qHj1MknUKvMwsPz7"
     },
-    "domain": "https://rakthaimassage.co.uk"
+    "domain": "https://dkthaimassage.co.uk"
 }
 
 
